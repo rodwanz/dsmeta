@@ -10,7 +10,7 @@ function Header() {
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="//www.instagram.com/wanzeler.r">wanzeler.r</a>
+          <a href="//www.instagram.com/wanzeler.r"> wanzeler.r</a>
         </p>
       </div>
     </header>
